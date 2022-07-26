@@ -1,0 +1,57 @@
+body{
+  padding-left: 70px;
+  line-height: 250%;
+}
+.container{
+  background-color: rgb(182, 182, 182);
+  margin: 50px;
+  padding-bottom: 60px;
+}
+#title{
+  padding-left: 450px;
+}
+.fa{
+  margin: 10px 0 0 30px;
+}
+#a{
+  font-size: 20px;
+  color: antiquewhite;
+  background-color: rgb(24, 24, 24);
+  padding: 0 0 20px 0 ;
+  margin: -20px 0 60px 0;
+}
+#b{
+  margin-left: 80px;
+  padding-left: 0px;
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+#c{
+  color: rgb(209, 209, 209);
+  border-radius: 5px;
+  margin: 0 0 0 220px;
+}
+#d1{
+  text-align: center;
+  border-radius: 10px;
+  padding: 100px 0 10px 0 ;
+  margin: 50px 30px 20px 170px;
+}
+#d2{
+  text-align: center;
+  border-radius: 10px;
+  padding: 50px 0 10px 0 ;
+  margin: 50px 30px 20px 30px;
+}
+#d3{
+  text-align: center;
+  border-radius: 10px;
+  padding: 50px 0 10px 0 ;
+  margin: 50px 30px 20px 30px;
+}
+#e{
+  text-align: center;
+  border-radius: 10px;
+  margin: 50px 0 0 160px;
+  padding: 80px 0 0 0 ;
+}
